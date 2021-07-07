@@ -4,14 +4,9 @@
 
 - 👨‍💻learning everything
 
-
 ### Connect with me:
 
-
 <a href="https://instagram.com/stormex"><img align="left" alt="stormex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />@stormex</a>
-
-<br />
-
 
 ### Languages and Tools:
 
