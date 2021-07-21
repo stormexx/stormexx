@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<a href="https://instagram.com/stormex"><img align="left" alt="stormex | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />@stormex</a>
+<a href="https://twitter.com/_stormex"><img align="left" alt="_stormex | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />@_stormex</a>
 
 ### Languages and Tools:
 
