@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/_stormex"><img align="left" alt="_stormex | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />@_stormex</a>
+<a href="https://twitter.com/_stormex"><img align="left" alt="_stormex | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />@_stormex</a>
 
 ### Languages and Tools:
 
