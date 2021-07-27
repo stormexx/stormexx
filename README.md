@@ -6,7 +6,6 @@
 
 <a href="https://twitter.com/_stormex"><img align="left" alt="_stormex | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />@_stormex</a>
 <br />
-<br />
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" />
