@@ -1,8 +1,6 @@
-### Hi there, I'm Hassan - aka [stormex] 👋
+### Hi there, I'm Hassan - aka "stormex" 👋
 
-## I'm a student,
-
-- 👨‍💻learning everything
+## I'm a student, learning everything.
 
 ### Connect with me:
 
@@ -19,10 +17,9 @@
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bash/bash-original.svg" />
 <br />
 
-### Latest YouTube Videos
+### 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 
 <br />
