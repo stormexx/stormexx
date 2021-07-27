@@ -21,6 +21,7 @@
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [TLR](https://www.youtube.com/watch?v=2P7rEYlV1PU)
 <!-- BLOG-POST-LIST:END -->
 
 
