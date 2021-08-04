@@ -1,6 +1,5 @@
 ### Hi there, I'm Hassan - aka "stormex" 👋
-
-## I'm a student, learning everything.
+##
 
 ### 🔗 Connect with me
 
